@@ -60,7 +60,7 @@ neon-vibe/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/neon-vibe.git
+git clone https://github.com/lamhouk/neon-vibe.git
 cd neon-vibe
 ```
 
